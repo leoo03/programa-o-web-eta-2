@@ -1,0 +1,48 @@
+#mae{
+    background-color: blue;
+       width: 100%;
+       padding: 15px;
+       text-align: end;
+       
+   
+       
+   }
+   #mae a{
+       box-sizing: border-box;
+    
+       text-decoration: none;
+       color: white;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       padding: 15px;
+       display: inline;
+   
+   
+   
+   }
+   
+   #mae a:hover{
+       background-color: white;
+       color: black;
+   
+   }
+   
+   #tamanho{
+       background-color: darkgrey;
+    width: 15%;
+    height: 350px;
+   
+   
+   }
+   
+   img{
+   justify-content: center;
+       margin: auto;
+       width: 40%;
+   }
+   
+   #container{
+       display:inline;
+       box-sizing: border-box;
+   
+   
+   }
